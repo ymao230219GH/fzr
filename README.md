@@ -1,10 +1,9 @@
 <h1 align="center">BPB Panel 💦</h1>
-</p>
-<br>
+
+
+
 请点击查看教程
 [README.md](https://wandou.eu.org/archives/171)
-</p>
-<br>
 
 ## Introduction
 This project is aimed to provide a user panel to access FREE and SECURE `VLESS`, `Trojan` and `Warp` configs and stay conntected even with a blocked domain or blocked Warp on ISPs, offering two deployment options: 

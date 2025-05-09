@@ -197,3 +197,5 @@ TR_PASS：填写一个复杂字符串，作为密码。
 Proxy IPs / Domains 获取地址：点击访问	代理 IP/域名	141.147.156.68、cdn-xx-b6gac.acu.org
 Clean IPs / Domains	清洁 IP/域名	104.17.212.246、104.19.19.167
 
+https://wandou.eu.org/archives/171
+

@@ -1,6 +1,6 @@
 <h1 align="center">BPB Panel 💦</h1>
-
-
+</p>
+<br>
 请点击查看教程
 [README.md](https://wandou.eu.org/archives/171)
 </p>
